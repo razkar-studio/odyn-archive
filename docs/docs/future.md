@@ -29,6 +29,7 @@ A checklist of thoughts for the future of Odyn.
   + [ ] `install --bin`: fetches any pre-built binaries on the provided repository and installs that directly
   + needs odin compiler
 - [ ] `search`: Searches Odin packages from a "list of lists," configurable list databases. Still needs to manually install though
+  + [ ] `odyn-*` apps: special `odyn-app` list (solely maintained by me, hosted on a repo for passive on-network updates) in `search`, getting special treatment in Odyn, maybe an `app` command as its interface
 
 ## Soon
 - [ ] caching (less accurate term, i think it's a memo?), storing metadata of `get` and duplicating local paths instead of cloning when metadata matches
