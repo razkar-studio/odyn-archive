@@ -1,3 +1,9 @@
+# :bangbang: This project is no longer maintained/it is archived. :bangbang:
+
+## A newer rewrite of Odyn, in Odin, is available [here](https://codeberg.org/razkar/odyn)
+
+---
+
 <div align="center">
 
 <img src="banner.svg" alt="Odyn" width="80%"/>

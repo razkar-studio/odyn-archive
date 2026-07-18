@@ -6,6 +6,10 @@ sidebar_position: 1
 slug: /intro
 ---
 
+## :bangbang: This project is no longer maintained/it is archived. :bangbang:
+
+## A newer rewrite of Odyn, in Odin, is currently available/in development [here](https://codeberg.org/razkar/odyn)
+
 ## What is Odyn?
 
 Odyn is a *reproducible vendoring tool* for the Odin programming language. Not a package manager.
