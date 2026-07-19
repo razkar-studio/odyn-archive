@@ -12,7 +12,7 @@ const config: Config = {
   },
 
   url: "https://razkar.codeberg.page",
-  baseUrl: "/odyn/",
+  baseUrl: "/odyn-archive/",
 
   organizationName: "razkar-studio",
   projectName: "odyn",
